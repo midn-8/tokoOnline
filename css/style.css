@@ -8,3 +8,11 @@ header {
  
   padding: 16px;
 }
+nav a {
+ 
+  margin-right: 12px;
+  text-decoration: none;
+}
+nav a:hover {
+  text-decoration: underline;
+}
